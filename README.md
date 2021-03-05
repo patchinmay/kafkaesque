@@ -2,11 +2,12 @@
 Final Project for CSCI 6421 
 
 Team Members
+
 ```
-Aarohi Agarwal (@aarohi11 )
-Biyas Basak (@biyasbasak)
 Chinmay Patil (@patchinmay)
 Dilip Varma Sagi (@dilipvarma3)
+Biyas Basak (@biyasbasak)
+Aarohi Agarwal (@aarohi11 )
 ```
 
 ## (Optional) Proposed Project Description
